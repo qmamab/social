@@ -1,1 +1,1 @@
-web: gunicorn project4.wsgi
+web: gunicorn broojsocial.hekoruapp.com
