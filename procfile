@@ -1,1 +1,1 @@
-web: gunicorn broojsocial.wsgi
+web: manage.py runserver broojsocial.wsgi
