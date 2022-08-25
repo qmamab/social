@@ -1,1 +1,1 @@
-web: gunicorn broojsocial.wsgi
+web: gunicorn project4.wsgi
