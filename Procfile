@@ -1,1 +1,1 @@
-web: gunicorn broojsocial.wsgi --log-file -
+web:gunicorn broojsocial.wsgi --log-file -
