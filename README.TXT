@@ -1,0 +1,3 @@
+for more information about Future Target Institute | British Council Exam Venue | Prometric CFA | PSI | Pearson VUE| Pearson PTE | PTE.ae
+regarding "Future Target Institute | IELTS testing venue | Prometric site #4625 | PSI | Pearson PTE offers over 70 courses approved by the KHDA. We offer exam preparation courses such as IELTS British council, PTE Pearson, SAT, ACT, etc. as well as other Education Support Services for school going students. We are known for our excellence in the Finance Courses (Banking) which include CAMS and the 48 Hours AML CPD UK Training. We also provide professional testing services in corporation with British Council, PSI, Pearson VUE, Pearson PTE, and Prometric CFA #4625"
+goto https://ftiuae.com
